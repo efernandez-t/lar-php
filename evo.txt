@@ -1,0 +1,1936 @@
+DB::table("Evolutions")->insert([
+  "id_poke"=>"1",
+  "id_poke_evo"=>"2",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"2",
+  "id_poke_evo"=>"3",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"4",
+  "id_poke_evo"=>"5",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"5",
+  "id_poke_evo"=>"6",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"7",
+  "id_poke_evo"=>"8",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"8",
+  "id_poke_evo"=>"9",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"10",
+  "id_poke_evo"=>"11",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"11",
+  "id_poke_evo"=>"12",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"13",
+  "id_poke_evo"=>"14",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"14",
+  "id_poke_evo"=>"15",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"16",
+  "id_poke_evo"=>"17",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"17",
+  "id_poke_evo"=>"18",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"19",
+  "id_poke_evo"=>"20",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"21",
+  "id_poke_evo"=>"22",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"23",
+  "id_poke_evo"=>"24",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"172",
+  "id_poke_evo"=>"25",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"25",
+  "id_poke_evo"=>"26",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"27",
+  "id_poke_evo"=>"28",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"29",
+  "id_poke_evo"=>"30",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"30",
+  "id_poke_evo"=>"31",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"32",
+  "id_poke_evo"=>"33",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"33",
+  "id_poke_evo"=>"34",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"173",
+  "id_poke_evo"=>"35",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"35",
+  "id_poke_evo"=>"36",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"37",
+  "id_poke_evo"=>"38",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"174",
+  "id_poke_evo"=>"39",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"39",
+  "id_poke_evo"=>"40",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"41",
+  "id_poke_evo"=>"42",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"42",
+  "id_poke_evo"=>"169",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"43",
+  "id_poke_evo"=>"44",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"44",
+  "id_poke_evo"=>"45",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"44",
+  "id_poke_evo"=>"182",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"46",
+  "id_poke_evo"=>"47",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"48",
+  "id_poke_evo"=>"49",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"50",
+  "id_poke_evo"=>"51",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"52",
+  "id_poke_evo"=>"53",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"52",
+  "id_poke_evo"=>"863",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"54",
+  "id_poke_evo"=>"55",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"56",
+  "id_poke_evo"=>"57",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"57",
+  "id_poke_evo"=>"979",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"58",
+  "id_poke_evo"=>"59",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"60",
+  "id_poke_evo"=>"61",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"61",
+  "id_poke_evo"=>"62",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"61",
+  "id_poke_evo"=>"186",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"63",
+  "id_poke_evo"=>"64",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"64",
+  "id_poke_evo"=>"65",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"66",
+  "id_poke_evo"=>"67",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"67",
+  "id_poke_evo"=>"68",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"69",
+  "id_poke_evo"=>"70",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"70",
+  "id_poke_evo"=>"71",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"72",
+  "id_poke_evo"=>"73",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"74",
+  "id_poke_evo"=>"75",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"75",
+  "id_poke_evo"=>"76",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"77",
+  "id_poke_evo"=>"78",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"79",
+  "id_poke_evo"=>"80",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"79",
+  "id_poke_evo"=>"199",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"81",
+  "id_poke_evo"=>"82",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"82",
+  "id_poke_evo"=>"462",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"83",
+  "id_poke_evo"=>"865",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"84",
+  "id_poke_evo"=>"85",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"86",
+  "id_poke_evo"=>"87",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"88",
+  "id_poke_evo"=>"89",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"90",
+  "id_poke_evo"=>"91",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"92",
+  "id_poke_evo"=>"93",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"93",
+  "id_poke_evo"=>"94",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"95",
+  "id_poke_evo"=>"208",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"96",
+  "id_poke_evo"=>"97",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"98",
+  "id_poke_evo"=>"99",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"100",
+  "id_poke_evo"=>"101",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"102",
+  "id_poke_evo"=>"103",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"104",
+  "id_poke_evo"=>"105",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"236",
+  "id_poke_evo"=>"106",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"236",
+  "id_poke_evo"=>"107",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"236",
+  "id_poke_evo"=>"237",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"108",
+  "id_poke_evo"=>"463",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"109",
+  "id_poke_evo"=>"110",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"111",
+  "id_poke_evo"=>"112",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"112",
+  "id_poke_evo"=>"464",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"440",
+  "id_poke_evo"=>"113",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"113",
+  "id_poke_evo"=>"242",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"114",
+  "id_poke_evo"=>"465",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"116",
+  "id_poke_evo"=>"117",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"117",
+  "id_poke_evo"=>"230",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"118",
+  "id_poke_evo"=>"119",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"120",
+  "id_poke_evo"=>"121",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"439",
+  "id_poke_evo"=>"122",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"122",
+  "id_poke_evo"=>"866",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"123",
+  "id_poke_evo"=>"212",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"123",
+  "id_poke_evo"=>"900",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"238",
+  "id_poke_evo"=>"124",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"239",
+  "id_poke_evo"=>"125",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"125",
+  "id_poke_evo"=>"466",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"240",
+  "id_poke_evo"=>"126",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"126",
+  "id_poke_evo"=>"467",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"129",
+  "id_poke_evo"=>"130",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"133",
+  "id_poke_evo"=>"134",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"133",
+  "id_poke_evo"=>"135",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"133",
+  "id_poke_evo"=>"136",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"133",
+  "id_poke_evo"=>"196",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"133",
+  "id_poke_evo"=>"197",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"133",
+  "id_poke_evo"=>"470",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"133",
+  "id_poke_evo"=>"471",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"133",
+  "id_poke_evo"=>"700",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"137",
+  "id_poke_evo"=>"233",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"233",
+  "id_poke_evo"=>"474",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"138",
+  "id_poke_evo"=>"139",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"140",
+  "id_poke_evo"=>"141",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"446",
+  "id_poke_evo"=>"143",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"147",
+  "id_poke_evo"=>"148",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"148",
+  "id_poke_evo"=>"149",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"152",
+  "id_poke_evo"=>"153",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"153",
+  "id_poke_evo"=>"154",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"155",
+  "id_poke_evo"=>"156",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"156",
+  "id_poke_evo"=>"157",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"158",
+  "id_poke_evo"=>"159",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"159",
+  "id_poke_evo"=>"160",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"161",
+  "id_poke_evo"=>"162",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"163",
+  "id_poke_evo"=>"164",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"165",
+  "id_poke_evo"=>"166",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"167",
+  "id_poke_evo"=>"168",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"170",
+  "id_poke_evo"=>"171",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"175",
+  "id_poke_evo"=>"176",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"176",
+  "id_poke_evo"=>"468",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"177",
+  "id_poke_evo"=>"178",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"179",
+  "id_poke_evo"=>"180",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"180",
+  "id_poke_evo"=>"181",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"298",
+  "id_poke_evo"=>"183",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"183",
+  "id_poke_evo"=>"184",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"438",
+  "id_poke_evo"=>"185",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"187",
+  "id_poke_evo"=>"188",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"188",
+  "id_poke_evo"=>"189",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"190",
+  "id_poke_evo"=>"424",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"191",
+  "id_poke_evo"=>"192",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"193",
+  "id_poke_evo"=>"469",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"194",
+  "id_poke_evo"=>"195",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"194",
+  "id_poke_evo"=>"980",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"198",
+  "id_poke_evo"=>"430",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"200",
+  "id_poke_evo"=>"429",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"360",
+  "id_poke_evo"=>"202",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"203",
+  "id_poke_evo"=>"981",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"204",
+  "id_poke_evo"=>"205",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"206",
+  "id_poke_evo"=>"982",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"207",
+  "id_poke_evo"=>"472",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"209",
+  "id_poke_evo"=>"210",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"211",
+  "id_poke_evo"=>"904",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"215",
+  "id_poke_evo"=>"461",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"215",
+  "id_poke_evo"=>"903",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"216",
+  "id_poke_evo"=>"217",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"217",
+  "id_poke_evo"=>"901",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"218",
+  "id_poke_evo"=>"219",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"220",
+  "id_poke_evo"=>"221",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"221",
+  "id_poke_evo"=>"473",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"222",
+  "id_poke_evo"=>"864",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"223",
+  "id_poke_evo"=>"224",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"458",
+  "id_poke_evo"=>"226",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"228",
+  "id_poke_evo"=>"229",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"231",
+  "id_poke_evo"=>"232",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"234",
+  "id_poke_evo"=>"899",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"246",
+  "id_poke_evo"=>"247",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"247",
+  "id_poke_evo"=>"248",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"252",
+  "id_poke_evo"=>"253",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"253",
+  "id_poke_evo"=>"254",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"255",
+  "id_poke_evo"=>"256",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"256",
+  "id_poke_evo"=>"257",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"258",
+  "id_poke_evo"=>"259",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"259",
+  "id_poke_evo"=>"260",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"261",
+  "id_poke_evo"=>"262",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"263",
+  "id_poke_evo"=>"264",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"264",
+  "id_poke_evo"=>"862",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"265",
+  "id_poke_evo"=>"266",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"266",
+  "id_poke_evo"=>"267",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"265",
+  "id_poke_evo"=>"268",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"268",
+  "id_poke_evo"=>"269",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"270",
+  "id_poke_evo"=>"271",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"271",
+  "id_poke_evo"=>"272",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"273",
+  "id_poke_evo"=>"274",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"274",
+  "id_poke_evo"=>"275",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"276",
+  "id_poke_evo"=>"277",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"278",
+  "id_poke_evo"=>"279",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"280",
+  "id_poke_evo"=>"281",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"281",
+  "id_poke_evo"=>"282",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"281",
+  "id_poke_evo"=>"475",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"283",
+  "id_poke_evo"=>"284",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"285",
+  "id_poke_evo"=>"286",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"287",
+  "id_poke_evo"=>"288",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"288",
+  "id_poke_evo"=>"289",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"290",
+  "id_poke_evo"=>"291",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"290",
+  "id_poke_evo"=>"292",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"293",
+  "id_poke_evo"=>"294",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"294",
+  "id_poke_evo"=>"295",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"296",
+  "id_poke_evo"=>"297",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"299",
+  "id_poke_evo"=>"476",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"300",
+  "id_poke_evo"=>"301",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"304",
+  "id_poke_evo"=>"305",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"305",
+  "id_poke_evo"=>"306",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"307",
+  "id_poke_evo"=>"308",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"309",
+  "id_poke_evo"=>"310",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"406",
+  "id_poke_evo"=>"315",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"315",
+  "id_poke_evo"=>"407",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"316",
+  "id_poke_evo"=>"317",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"318",
+  "id_poke_evo"=>"319",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"320",
+  "id_poke_evo"=>"321",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"322",
+  "id_poke_evo"=>"323",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"325",
+  "id_poke_evo"=>"326",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"328",
+  "id_poke_evo"=>"329",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"329",
+  "id_poke_evo"=>"330",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"331",
+  "id_poke_evo"=>"332",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"333",
+  "id_poke_evo"=>"334",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"339",
+  "id_poke_evo"=>"340",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"341",
+  "id_poke_evo"=>"342",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"343",
+  "id_poke_evo"=>"344",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"345",
+  "id_poke_evo"=>"346",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"347",
+  "id_poke_evo"=>"348",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"349",
+  "id_poke_evo"=>"350",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"353",
+  "id_poke_evo"=>"354",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"355",
+  "id_poke_evo"=>"356",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"356",
+  "id_poke_evo"=>"477",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"433",
+  "id_poke_evo"=>"358",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"361",
+  "id_poke_evo"=>"362",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"361",
+  "id_poke_evo"=>"478",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"363",
+  "id_poke_evo"=>"364",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"364",
+  "id_poke_evo"=>"365",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"366",
+  "id_poke_evo"=>"367",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"366",
+  "id_poke_evo"=>"368",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"371",
+  "id_poke_evo"=>"372",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"372",
+  "id_poke_evo"=>"373",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"374",
+  "id_poke_evo"=>"375",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"375",
+  "id_poke_evo"=>"376",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"387",
+  "id_poke_evo"=>"388",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"388",
+  "id_poke_evo"=>"389",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"390",
+  "id_poke_evo"=>"391",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"391",
+  "id_poke_evo"=>"392",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"393",
+  "id_poke_evo"=>"394",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"394",
+  "id_poke_evo"=>"395",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"396",
+  "id_poke_evo"=>"397",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"397",
+  "id_poke_evo"=>"398",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"399",
+  "id_poke_evo"=>"400",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"401",
+  "id_poke_evo"=>"402",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"403",
+  "id_poke_evo"=>"404",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"404",
+  "id_poke_evo"=>"405",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"408",
+  "id_poke_evo"=>"409",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"410",
+  "id_poke_evo"=>"411",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"412",
+  "id_poke_evo"=>"413",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"412",
+  "id_poke_evo"=>"414",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"415",
+  "id_poke_evo"=>"416",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"418",
+  "id_poke_evo"=>"419",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"420",
+  "id_poke_evo"=>"421",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"422",
+  "id_poke_evo"=>"423",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"425",
+  "id_poke_evo"=>"426",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"427",
+  "id_poke_evo"=>"428",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"431",
+  "id_poke_evo"=>"432",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"434",
+  "id_poke_evo"=>"435",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"436",
+  "id_poke_evo"=>"437",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"443",
+  "id_poke_evo"=>"444",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"444",
+  "id_poke_evo"=>"445",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"447",
+  "id_poke_evo"=>"448",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"449",
+  "id_poke_evo"=>"450",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"451",
+  "id_poke_evo"=>"452",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"453",
+  "id_poke_evo"=>"454",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"456",
+  "id_poke_evo"=>"457",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"459",
+  "id_poke_evo"=>"460",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"489",
+  "id_poke_evo"=>"490",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"495",
+  "id_poke_evo"=>"496",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"496",
+  "id_poke_evo"=>"497",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"498",
+  "id_poke_evo"=>"499",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"499",
+  "id_poke_evo"=>"500",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"501",
+  "id_poke_evo"=>"502",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"502",
+  "id_poke_evo"=>"503",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"504",
+  "id_poke_evo"=>"505",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"506",
+  "id_poke_evo"=>"507",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"507",
+  "id_poke_evo"=>"508",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"509",
+  "id_poke_evo"=>"510",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"511",
+  "id_poke_evo"=>"512",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"513",
+  "id_poke_evo"=>"514",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"515",
+  "id_poke_evo"=>"516",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"517",
+  "id_poke_evo"=>"518",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"519",
+  "id_poke_evo"=>"520",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"520",
+  "id_poke_evo"=>"521",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"522",
+  "id_poke_evo"=>"523",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"524",
+  "id_poke_evo"=>"525",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"525",
+  "id_poke_evo"=>"526",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"527",
+  "id_poke_evo"=>"528",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"529",
+  "id_poke_evo"=>"530",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"532",
+  "id_poke_evo"=>"533",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"533",
+  "id_poke_evo"=>"534",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"535",
+  "id_poke_evo"=>"536",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"536",
+  "id_poke_evo"=>"537",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"540",
+  "id_poke_evo"=>"541",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"541",
+  "id_poke_evo"=>"542",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"543",
+  "id_poke_evo"=>"544",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"544",
+  "id_poke_evo"=>"545",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"546",
+  "id_poke_evo"=>"547",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"548",
+  "id_poke_evo"=>"549",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"550",
+  "id_poke_evo"=>"902",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"551",
+  "id_poke_evo"=>"552",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"552",
+  "id_poke_evo"=>"553",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"554",
+  "id_poke_evo"=>"555",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"557",
+  "id_poke_evo"=>"558",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"559",
+  "id_poke_evo"=>"560",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"562",
+  "id_poke_evo"=>"563",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"562",
+  "id_poke_evo"=>"867",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"564",
+  "id_poke_evo"=>"565",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"566",
+  "id_poke_evo"=>"567",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"568",
+  "id_poke_evo"=>"569",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"570",
+  "id_poke_evo"=>"571",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"572",
+  "id_poke_evo"=>"573",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"574",
+  "id_poke_evo"=>"575",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"575",
+  "id_poke_evo"=>"576",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"577",
+  "id_poke_evo"=>"578",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"578",
+  "id_poke_evo"=>"579",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"580",
+  "id_poke_evo"=>"581",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"582",
+  "id_poke_evo"=>"583",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"583",
+  "id_poke_evo"=>"584",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"585",
+  "id_poke_evo"=>"586",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"588",
+  "id_poke_evo"=>"589",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"590",
+  "id_poke_evo"=>"591",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"592",
+  "id_poke_evo"=>"593",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"595",
+  "id_poke_evo"=>"596",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"597",
+  "id_poke_evo"=>"598",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"599",
+  "id_poke_evo"=>"600",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"600",
+  "id_poke_evo"=>"601",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"602",
+  "id_poke_evo"=>"603",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"603",
+  "id_poke_evo"=>"604",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"605",
+  "id_poke_evo"=>"606",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"607",
+  "id_poke_evo"=>"608",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"608",
+  "id_poke_evo"=>"609",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"610",
+  "id_poke_evo"=>"611",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"611",
+  "id_poke_evo"=>"612",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"613",
+  "id_poke_evo"=>"614",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"616",
+  "id_poke_evo"=>"617",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"619",
+  "id_poke_evo"=>"620",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"622",
+  "id_poke_evo"=>"623",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"624",
+  "id_poke_evo"=>"625",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"625",
+  "id_poke_evo"=>"983",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"627",
+  "id_poke_evo"=>"628",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"629",
+  "id_poke_evo"=>"630",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"633",
+  "id_poke_evo"=>"634",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"634",
+  "id_poke_evo"=>"635",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"636",
+  "id_poke_evo"=>"637",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"650",
+  "id_poke_evo"=>"651",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"651",
+  "id_poke_evo"=>"652",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"653",
+  "id_poke_evo"=>"654",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"654",
+  "id_poke_evo"=>"655",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"656",
+  "id_poke_evo"=>"657",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"657",
+  "id_poke_evo"=>"658",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"659",
+  "id_poke_evo"=>"660",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"661",
+  "id_poke_evo"=>"662",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"662",
+  "id_poke_evo"=>"663",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"664",
+  "id_poke_evo"=>"665",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"665",
+  "id_poke_evo"=>"666",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"667",
+  "id_poke_evo"=>"668",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"669",
+  "id_poke_evo"=>"670",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"670",
+  "id_poke_evo"=>"671",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"672",
+  "id_poke_evo"=>"673",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"674",
+  "id_poke_evo"=>"675",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"677",
+  "id_poke_evo"=>"678",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"679",
+  "id_poke_evo"=>"680",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"680",
+  "id_poke_evo"=>"681",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"682",
+  "id_poke_evo"=>"683",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"684",
+  "id_poke_evo"=>"685",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"686",
+  "id_poke_evo"=>"687",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"688",
+  "id_poke_evo"=>"689",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"690",
+  "id_poke_evo"=>"691",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"692",
+  "id_poke_evo"=>"693",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"694",
+  "id_poke_evo"=>"695",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"696",
+  "id_poke_evo"=>"697",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"698",
+  "id_poke_evo"=>"699",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"704",
+  "id_poke_evo"=>"705",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"705",
+  "id_poke_evo"=>"706",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"708",
+  "id_poke_evo"=>"709",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"710",
+  "id_poke_evo"=>"711",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"712",
+  "id_poke_evo"=>"713",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"714",
+  "id_poke_evo"=>"715",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"722",
+  "id_poke_evo"=>"723",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"723",
+  "id_poke_evo"=>"724",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"725",
+  "id_poke_evo"=>"726",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"726",
+  "id_poke_evo"=>"727",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"728",
+  "id_poke_evo"=>"729",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"729",
+  "id_poke_evo"=>"730",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"731",
+  "id_poke_evo"=>"732",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"732",
+  "id_poke_evo"=>"733",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"734",
+  "id_poke_evo"=>"735",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"736",
+  "id_poke_evo"=>"737",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"737",
+  "id_poke_evo"=>"738",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"739",
+  "id_poke_evo"=>"740",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"742",
+  "id_poke_evo"=>"743",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"744",
+  "id_poke_evo"=>"745",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"747",
+  "id_poke_evo"=>"748",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"749",
+  "id_poke_evo"=>"750",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"751",
+  "id_poke_evo"=>"752",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"753",
+  "id_poke_evo"=>"754",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"755",
+  "id_poke_evo"=>"756",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"757",
+  "id_poke_evo"=>"758",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"759",
+  "id_poke_evo"=>"760",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"761",
+  "id_poke_evo"=>"762",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"762",
+  "id_poke_evo"=>"763",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"767",
+  "id_poke_evo"=>"768",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"769",
+  "id_poke_evo"=>"770",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"772",
+  "id_poke_evo"=>"773",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"782",
+  "id_poke_evo"=>"783",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"783",
+  "id_poke_evo"=>"784",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"789",
+  "id_poke_evo"=>"790",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"790",
+  "id_poke_evo"=>"791",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"790",
+  "id_poke_evo"=>"792",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"803",
+  "id_poke_evo"=>"804",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"810",
+  "id_poke_evo"=>"811",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"811",
+  "id_poke_evo"=>"812",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"813",
+  "id_poke_evo"=>"814",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"814",
+  "id_poke_evo"=>"815",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"816",
+  "id_poke_evo"=>"817",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"817",
+  "id_poke_evo"=>"818",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"819",
+  "id_poke_evo"=>"820",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"821",
+  "id_poke_evo"=>"822",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"822",
+  "id_poke_evo"=>"823",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"824",
+  "id_poke_evo"=>"825",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"825",
+  "id_poke_evo"=>"826",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"827",
+  "id_poke_evo"=>"828",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"829",
+  "id_poke_evo"=>"830",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"831",
+  "id_poke_evo"=>"832",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"833",
+  "id_poke_evo"=>"834",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"835",
+  "id_poke_evo"=>"836",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"837",
+  "id_poke_evo"=>"838",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"838",
+  "id_poke_evo"=>"839",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"840",
+  "id_poke_evo"=>"841",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"840",
+  "id_poke_evo"=>"842",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"840",
+  "id_poke_evo"=>"1011",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"1011",
+  "id_poke_evo"=>"1019",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"843",
+  "id_poke_evo"=>"844",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"846",
+  "id_poke_evo"=>"847",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"848",
+  "id_poke_evo"=>"849",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"850",
+  "id_poke_evo"=>"851",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"852",
+  "id_poke_evo"=>"853",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"854",
+  "id_poke_evo"=>"855",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"856",
+  "id_poke_evo"=>"857",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"857",
+  "id_poke_evo"=>"858",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"859",
+  "id_poke_evo"=>"860",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"860",
+  "id_poke_evo"=>"861",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"868",
+  "id_poke_evo"=>"869",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"872",
+  "id_poke_evo"=>"873",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"878",
+  "id_poke_evo"=>"879",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"884",
+  "id_poke_evo"=>"1018",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"885",
+  "id_poke_evo"=>"886",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"886",
+  "id_poke_evo"=>"887",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"891",
+  "id_poke_evo"=>"892",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"906",
+  "id_poke_evo"=>"907",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"907",
+  "id_poke_evo"=>"908",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"909",
+  "id_poke_evo"=>"910",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"910",
+  "id_poke_evo"=>"911",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"912",
+  "id_poke_evo"=>"913",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"913",
+  "id_poke_evo"=>"914",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"915",
+  "id_poke_evo"=>"916",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"917",
+  "id_poke_evo"=>"918",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"919",
+  "id_poke_evo"=>"920",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"921",
+  "id_poke_evo"=>"922",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"922",
+  "id_poke_evo"=>"923",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"924",
+  "id_poke_evo"=>"925",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"926",
+  "id_poke_evo"=>"927",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"928",
+  "id_poke_evo"=>"929",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"929",
+  "id_poke_evo"=>"930",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"932",
+  "id_poke_evo"=>"933",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"933",
+  "id_poke_evo"=>"934",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"935",
+  "id_poke_evo"=>"936",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"935",
+  "id_poke_evo"=>"937",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"938",
+  "id_poke_evo"=>"939",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"940",
+  "id_poke_evo"=>"941",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"942",
+  "id_poke_evo"=>"943",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"944",
+  "id_poke_evo"=>"945",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"946",
+  "id_poke_evo"=>"947",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"948",
+  "id_poke_evo"=>"949",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"951",
+  "id_poke_evo"=>"952",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"953",
+  "id_poke_evo"=>"954",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"955",
+  "id_poke_evo"=>"956",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"957",
+  "id_poke_evo"=>"958",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"958",
+  "id_poke_evo"=>"959",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"960",
+  "id_poke_evo"=>"961",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"963",
+  "id_poke_evo"=>"964",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"965",
+  "id_poke_evo"=>"966",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"969",
+  "id_poke_evo"=>"970",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"971",
+  "id_poke_evo"=>"972",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"974",
+  "id_poke_evo"=>"975",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"996",
+  "id_poke_evo"=>"997",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"997",
+  "id_poke_evo"=>"998",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"999",
+  "id_poke_evo"=>"1000",
+]);
+DB::table("Evolutions")->insert([
+  "id_poke"=>"1012",
+  "id_poke_evo"=>"1013",
+]);
